@@ -2,4 +2,4 @@
 
 [![Skills](https://skillicons.dev/icons?i=neovim,debian,linux,windows,bash,html,css)](https://skillicons.dev)
 
-Origin Neovim enjoyer <3
+Vanilla Neovim enjoyer <3
